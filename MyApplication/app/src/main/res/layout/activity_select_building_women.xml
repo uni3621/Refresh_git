@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".Select_Building_WomenActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:orientation="horizontal">
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/buiding_image"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/buildingw" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/building1_Button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="90dp"
+                    android:background="@android:color/transparent"
+                    android:scaleType="centerInside"
+                    app:srcCompat="@drawable/building_1w" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"/>
+
+                <ImageButton
+                    android:id="@+id/building2_Button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="90dp"
+                    android:background="@android:color/transparent"
+                    android:scaleType="centerInside"
+                    app:srcCompat="@drawable/building_2w" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"/>
+
+                <ImageButton
+                    android:id="@+id/building3_Button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="90dp"
+                    android:background="@android:color/transparent"
+                    android:scaleType="centerInside"
+                    app:srcCompat="@drawable/building_3w" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"/>
+            </LinearLayout>
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/building4_Button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="90dp"
+                    android:background="@android:color/transparent"
+                    android:scaleType="centerInside"
+                    app:srcCompat="@drawable/building_4w" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"/>
+
+                <ImageButton
+                    android:id="@+id/building5_Button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="90dp"
+                    android:background="@android:color/transparent"
+                    android:scaleType="centerInside"
+                    app:srcCompat="@drawable/building_5w" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"/>
+
+                <ImageButton
+                    android:id="@+id/building6_Button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="90dp"
+                    android:background="@android:color/transparent"
+                    android:scaleType="centerInside"
+                    app:srcCompat="@drawable/building_6w" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"/>
+
+            </LinearLayout>
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
