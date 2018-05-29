@@ -26,6 +26,11 @@
         <activity android:name=".Select_Building_WomenActivity"></activity>
         <activity android:name=".Engineering_WomenActivity"></activity>
         <activity android:name=".Engineering_MenActivity"></activity>
+        <activity android:name=".Engineering_1floor_WomenActivity"></activity>
+        <activity android:name=".Engineering_2floor_WomenActivity"></activity>
+        <activity android:name=".Engineering_3floor_WomenActivity"></activity>
+        <activity android:name=".Engineering_4floor_WomenActivity"></activity>
+        <activity android:name=".Engineering_5floor_WomenActivity"></activity>
 
     </application>
 

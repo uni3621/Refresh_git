@@ -19,7 +19,7 @@ public class Select_Building_WomenActivity extends AppCompatActivity {
         engineering_button_women.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intentLoadNewActivity = new Intent(Select_Building_WomenActivity.this, Engineering_MenActivity.class);
+                Intent intentLoadNewActivity = new Intent(Select_Building_WomenActivity.this, Engineering_WomenActivity.class);
                 startActivity(intentLoadNewActivity);
             }
         });
