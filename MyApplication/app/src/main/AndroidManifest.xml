@@ -24,6 +24,8 @@
         <activity android:name=".MainActivity"></activity>
         <activity android:name=".Select_Building_MenActivity"></activity>
         <activity android:name=".Select_Building_WomenActivity"></activity>
+        <activity android:name=".Engineering_WomenActivity"></activity>
+        <activity android:name=".Engineering_MenActivity"></activity>
 
     </application>
 
