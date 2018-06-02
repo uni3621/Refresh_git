@@ -5,5 +5,28 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#ffffff"
-    tools:context=".Engineering_1floor_WomenActivity">
+    tools:context=".Engineering.Engineering_1floor_WomenActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- DB 생성 버튼 -->
+        <Button
+            android:id="@+id/btnCreateButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DB 생성" />
+
+        <!-- Data 생성 버튼 -->
+        <Button
+            android:id="@+id/btnInsertButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Data 생성" />
+
+    </LinearLayout>
+
+
 </android.support.constraint.ConstraintLayout>

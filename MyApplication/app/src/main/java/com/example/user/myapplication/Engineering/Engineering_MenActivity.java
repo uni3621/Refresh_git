@@ -1,12 +1,12 @@
-package com.example.user.myapplication;
+package com.example.user.myapplication.Engineering;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-public class Engineering_1floor_WomenActivity extends AppCompatActivity{
+public class Engineering_MenActivity extends AppCompatActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.engineering_1floor_women);
+        setContentView(R.layout.activity_engineering_men);
     }
 }

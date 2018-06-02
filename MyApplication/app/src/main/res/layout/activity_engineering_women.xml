@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#ffffff"
-    tools:context=".Engineering_WomenActivity">
+    tools:context=".Engineering.Engineering_WomenActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
