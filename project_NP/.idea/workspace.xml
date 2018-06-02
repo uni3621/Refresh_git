@@ -3741,6 +3741,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
@@ -3751,6 +3752,11 @@
       </list>
     </option>
   </component>
+=======
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="1">
+=======
+>>>>>>> 56dad06df38831afed41f14bef2376a66878e4f7
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -3765,6 +3771,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+>>>>>>> 5b0531fecbcdeee68de2cf891b6eb11100408e2b
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -3807,6 +3814,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -3822,6 +3831,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="client_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -3850,6 +3860,8 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+=======
+>>>>>>> 56dad06df38831afed41f14bef2376a66878e4f7
   <component name="SvnConfiguration">
     <configuration />
   </component>
